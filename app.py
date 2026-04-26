@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("ߓꠄashboard - Relatório de Atraso")
+st.title("Dashboard - Relatório de Atraso")
 
 # -------------------------------
 # Upload seguro do arquivo
